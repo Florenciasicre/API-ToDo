@@ -1,0 +1,22 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_83242e7e-f82d-4a71-8ef2-9d71d212d249gu_wxmeq/croots/recipe/certifi_1655968827803/work/certifi
+decouple==0.0.7
+Django==3.0.8
+djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1639677796037/work
+Faker @ file:///tmp/build/80754af9/faker_1624291529673/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pluggy @ file:///opt/concourse/worker/volumes/live/8277900c-164a-49c8-6f2a-f55c3c0154be/volume/pluggy_1648042581708/work
+psycopg2 @ file:///Users/builder/ci_310/psycopg2_1642535040511/work
+py @ file:///opt/conda/conda-bld/py_1644396412707/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pytest==7.1.2
+pytest-django @ file:///home/conda/feedstock_root/build_artifacts/pytest-django_1638930314187/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1caf090c-01b6-4973-adac-d2eb884a674e7zonb9eb/croots/recipe/pytz_1654762641285/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
+tomli @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_90762ba4-f339-47e8-bd29-416854a59b233d27hku_/croots/recipe/tomli_1657175507767/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
